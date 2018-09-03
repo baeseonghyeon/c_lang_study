@@ -2,7 +2,7 @@
 
 C 언어 스터디 GIT입니다. github 사용법은 따로 다루지 않습니다. git 및 github의 상세한 사용법은 아래 링크를 참조해주세요.
 
-생활코딩 git 강좌 : https://opentutorials.org/course/2708/15465 
+[생활코딩 git 강좌 바로가기](https://opentutorials.org/course/2708/15465)
 
 ## 스터디 목표 
 
