@@ -30,6 +30,6 @@ void printStar(int size){
 }
 
 int main(){
-    printStar(5);
+    printStar(13);
     return 0;
 }
